@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution url here](https://github.com/Sandesh4141/Profile-Card-Component)
-- Live Site URL: [Live site here](https://blissful-minsky-47f301.netlify.app/)
+- Solution: [Solution url click here](https://github.com/Sandesh4141/Profile-Card-Component)
+- Live Site: [Live site click here](https://blissful-minsky-47f301.netlify.app/)
 
 ## My process
 
